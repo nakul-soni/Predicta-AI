@@ -1,7 +1,0 @@
-{
-  "name": "Omniscience - Global Intelligence Platform",
-  "description": "An autonomous multi-agent system for real-time global news analysis, risk prediction, and future scenario modeling.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}
